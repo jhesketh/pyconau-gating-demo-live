@@ -11,6 +11,9 @@ def get_population_data():
         City('Hobart', 'TAS', 219200),
         City('Brisbane', 'QLD', 2274460),
         City('Sydney', 'NSW', 4627345),
+        City('Melbourne', 'VIC', 4440328),
+        City('Geelong', 'VIC', 184182),
+        City('Ballarat', 'VIC', 98543),
     ]
     return cities
 
